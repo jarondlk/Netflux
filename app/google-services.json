@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215409770844",
+    "project_id": "netflux-3fa9a",
+    "storage_bucket": "netflux-3fa9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215409770844:android:1705f7b98a8dc29bc14199",
+        "android_client_info": {
+          "package_name": "com.example.project155"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL-TxlbZFNp7ifcNvlMPLYTGoG-Nxrk64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
